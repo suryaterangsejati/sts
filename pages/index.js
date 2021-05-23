@@ -14,7 +14,7 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-blueGray-600">
-                Notus NextJS - A beautiful extension for Tailwind CSS.
+                DEVOTED TO BUILDING DREAMS.
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
                 Notus NextJS is Free and Open Source. It does not change any of
@@ -98,13 +98,13 @@ export default function Index() {
                     ></polygon>
                   </svg>
                   <h4 className="text-xl font-bold text-white">
-                    Great for your awesome project
+                    ABOUT US
                   </h4>
                   <p className="text-md font-light mt-2 text-white">
-                    Putting together a page has never been easier than matching
-                    together pre-made components. From landing pages
-                    presentation to login areas, you can easily customise and
-                    built your pages.
+                    Surya Terang Sejati is a contractor based company headquarter reside in Bali Indonesia. Its established since 1986 and has handle more than 1000 project contracts in all over indonesia, such as Sumatra, Java, Bali, and Nusa Tenggara. It was found in 1986 and  lead by some potential human resource in daily operational.
+                  </p>
+                  <p className="text-md font-light mt-2 text-white">
+                    Surya Terang Sejati has become PLN partner in more than decades. Many our client has satisfied by our result of project either in MEP, construction or civil based. It is becoming our priority to help client dream project goal.
                   </p>
                 </blockquote>
               </div>
