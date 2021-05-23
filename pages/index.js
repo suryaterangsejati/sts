@@ -119,11 +119,10 @@ export default function Index() {
                         <i className="fas fa-sitemap"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        CSS Components
+                        Year Established
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        Notus NextJS comes with a huge number of Fully Coded CSS
-                        components.
+                        1986
                       </p>
                     </div>
                   </div>
@@ -133,11 +132,10 @@ export default function Index() {
                         <i className="fas fa-drafting-compass"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        JavaScript Components
+                        HUNDREDS
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        We also feature many dynamic components for React,
-                        NextJS, Vue and Angular.
+                        Projects Completed.
                       </p>
                     </div>
                   </div>
@@ -148,10 +146,9 @@ export default function Index() {
                       <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                         <i className="fas fa-newspaper"></i>
                       </div>
-                      <h6 className="text-xl mb-1 font-semibold">Pages</h6>
+                      <h6 className="text-xl mb-1 font-semibold">HUNDREDS</h6>
                       <p className="mb-4 text-blueGray-500">
-                        This extension also comes with 3 sample pages. They are
-                        fully coded so you can start working instantly.
+                        Contractors Appointed.
                       </p>
                     </div>
                   </div>

@@ -20,7 +20,7 @@ export default function Navbar(props) {
                 loader={myLoader}
                 src="/me.png"
                 alt="Picture of the author"
-                width={160}
+                width={150}
                 height={45}
               />
               <button
